@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You",
+  titleHeader: "Cậu đồng ý làm người yêu mình nhé?",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
-  buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn em vì đồng ý",
+    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu ĐỒNG Ý rùi đó :333",
+  buttonYes: "Đồng ý",
+  buttonNo: "Không! Còn lâu nhé",
+  titleModar: "Cảm ơn cậu đã đồng ý",
   descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "',
+    'Mình biết là cậu sẽ đồng ý mà UwU </br> Cảm ơn cậu đã đồng ý từ giờ cậu sẽ mãi là của một mình mình thoii </br> "Nếu cậu thấy mình không tốt hay làm bạn khó chịu cứ nói ra nhé </br>  Mình sẽ thay đổi tất cả chỉ vì riêng cậu thôii, Mãi yêu <3 "',
 };
